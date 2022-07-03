@@ -1,0 +1,14 @@
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\bin\Debug\netcoreapp3.1\MilkTea_Management.exe
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\bin\Debug\netcoreapp3.1\MilkTea_Management.deps.json
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\bin\Debug\netcoreapp3.1\MilkTea_Management.runtimeconfig.json
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\bin\Debug\netcoreapp3.1\MilkTea_Management.runtimeconfig.dev.json
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\bin\Debug\netcoreapp3.1\MilkTea_Management.dll
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\bin\Debug\netcoreapp3.1\MilkTea_Management.pdb
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\obj\Debug\netcoreapp3.1\MilkTea_Management.csproj.AssemblyReference.cache
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\obj\Debug\netcoreapp3.1\MilkTea_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\obj\Debug\netcoreapp3.1\MilkTea_Management.AssemblyInfoInputs.cache
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\obj\Debug\netcoreapp3.1\MilkTea_Management.AssemblyInfo.cs
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\obj\Debug\netcoreapp3.1\MilkTea_Management.csproj.CoreCompileInputs.cache
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\obj\Debug\netcoreapp3.1\MilkTea_Management.dll
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\obj\Debug\netcoreapp3.1\MilkTea_Management.pdb
+C:\Users\ngoct\source\repos\MilkTea_Management\MilkTea_Management\obj\Debug\netcoreapp3.1\MilkTea_Management.genruntimeconfig.cache
